@@ -8,6 +8,7 @@ pipeline {
   stages {
     stage('Unit Test') {
         steps {
+            sh 'cp /home/ubuntu-22-04/local.properties local.properties'
             sh './gradlew clean testDebugUnitTest'
         }
     }
