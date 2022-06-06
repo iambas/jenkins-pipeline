@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354081536255",
+    "project_id": "jenkins-pipeline-bcfeb",
+    "storage_bucket": "jenkins-pipeline-bcfeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354081536255:android:64c47ea228acda1f1f74ca",
+        "android_client_info": {
+          "package_name": "com.suphakrit.jenkinspipeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354081536255-33g4up2k71s0dvmfr7ip72oevbf9gila.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZt8jwEO3HVxLXLWm7Yl8W2Abk5fWGZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354081536255-33g4up2k71s0dvmfr7ip72oevbf9gila.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
